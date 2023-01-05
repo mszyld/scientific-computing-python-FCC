@@ -1,3 +1,7 @@
 # Polygon Area Calculator
 
-This is the boilerplate for the Polygon Area Calculator project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator
+The code I wrote is in shape_calculator.py
+
+It can be seen working and passing the tests at https://replit.com/@mszyld/boilerplate-polygon-area-calculator#main.py
+
+The instructions for building the project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/polygon-area-calculator
