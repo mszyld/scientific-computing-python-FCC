@@ -1,3 +1,7 @@
 # Arithmetic Formatter
 
-This is the boilerplate for the Arithmetic Formatter project. Instructions for building your project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
+The code I wrote is in arithmetic_arranger.py
+
+It can be seen working and passing the tests at https://replit.com/@mszyld/boilerplate-arithmetic-formatter#README.md
+
+The instructions for building the project can be found at https://www.freecodecamp.org/learn/scientific-computing-with-python/scientific-computing-with-python-projects/arithmetic-formatter
